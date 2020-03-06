@@ -1,5 +1,7 @@
 # CSS Flexbox ile Responsive Card Layout
 
+<p> <a href="http://mfatihgul.com/css-flexbox-ile-responsive-card-layout/"> MY BLOG </a>
+
 ![2020-03-05_15-25-16](https://user-images.githubusercontent.com/55247875/75981510-aebf6a00-5ef5-11ea-92bb-4999b3c3cd0b.gif)
 
 
